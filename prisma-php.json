@@ -1,0 +1,16 @@
+{
+  "projectName": "test-auth",
+  "projectRootPath": "C:\\xampp\\htdocs\\projects\\create-prisma-php-app\\test-auth",
+  "phpEnvironment": "XAMPP",
+  "phpRootPathExe": "C:\\xampp\\php\\php.exe",
+  "phpGenerateClassPath": "src/Lib/Prisma/Classes",
+  "bsTarget": "http://localhost/projects/create-prisma-php-app/test-auth/",
+  "bsPathRewrite": {
+    "^/": "/projects/create-prisma-php-app/test-auth/"
+  },
+  "tailwindcss": true,
+  "websocket": false,
+  "prisma": true,
+  "version": "1.11.14",
+  "excludeFiles": []
+}
